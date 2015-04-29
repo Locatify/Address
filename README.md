@@ -42,6 +42,8 @@ Requirements: jQuery 1.9+
 		</div>
 	</form>
 	```
+	
+	To further customise the layout of your webpage, you can add `<div id="locatify-message"></div>` and `<div id="locatify-dropdown"></div>` containers. If omitted, they will be generated in the DOM immediately following the input field and button. 
 
 ### Usage
 
