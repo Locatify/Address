@@ -2,7 +2,7 @@
 
 Locatify.js is the official jQuery plugin for the popular [Locatify](http://www.locatify.co.uk) address and postcode lookup service.
 
-To get started, view the examples and documentation at http://locatity.co.uk/documentation/.
+To get started, view the examples and documentation at http://locatify.co.uk/documentation/.
 
 ### Installation
 
